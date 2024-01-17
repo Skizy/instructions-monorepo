@@ -1,0 +1,8 @@
+{
+	"name": "instructions_monorepo",
+	"private": true,
+	"workspaces": [
+		"apps/*",
+		"packages/*"
+	]
+}
