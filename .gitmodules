@@ -1,0 +1,15 @@
+[submodule "apps/backend"]
+	path = apps/backend
+	url = https://github.com/Skizy/instructions-backend.git
+[submodule "apps/frontend"]
+	path = apps/frontend
+	url = https://github.com/Skizy/instructions-frontend.git
+[submodule "apps/html_server"]
+	path = apps/html_server
+	url = https://github.com/Skizy/instructions-html-server.git
+[submodule "packages/custom-types"]
+	path = packages/custom-types
+	url = https://github.com/Skizy/instructions-custom-types.git
+[submodule "packages/instruction-viewer"]
+	path = packages/instruction-viewer
+	url = https://github.com/Skizy/instruction-viewer.git
